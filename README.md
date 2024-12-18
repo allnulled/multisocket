@@ -11,7 +11,7 @@ npm i -s @allnulled/multisocket
 ## Usage
 
 ```js
-const Multisocket = require('./multisocket');
+const Multisocket = require('@allnulled/multisocket');
 
 const $msServer = new Multisocket(true, 3000);
 Configure_server: {
