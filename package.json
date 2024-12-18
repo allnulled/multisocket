@@ -1,0 +1,16 @@
+{
+  "name": "@allnulled/multisocket",
+  "version": "1.0.0",
+  "description": "Manage socket.io and socket.io-client communications and events from the same JavaScript class.",
+  "main": "multisocket.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": ["socket.io", "socket.io-client"],
+  "author": "allnulled",
+  "license": "WTFPL",
+  "dependencies": {
+    "socket.io": "^4.8.1",
+    "socket.io-client": "^4.8.1"
+  }
+}
